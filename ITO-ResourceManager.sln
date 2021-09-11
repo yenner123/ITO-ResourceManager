@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITO.ResourceManager.API", "ITO-ResourceManager\ITO.ResourceManager.API.csproj", "{A5717F3C-BC4B-4A44-8ADA-F65EAD1B716F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5717F3C-BC4B-4A44-8ADA-F65EAD1B716F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5717F3C-BC4B-4A44-8ADA-F65EAD1B716F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5717F3C-BC4B-4A44-8ADA-F65EAD1B716F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5717F3C-BC4B-4A44-8ADA-F65EAD1B716F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C00C2DF0-961A-48D0-AEC3-980A6652AF1F}
+	EndGlobalSection
+EndGlobal
